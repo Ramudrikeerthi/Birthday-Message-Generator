@@ -1,5 +1,3 @@
-# 🎂 Birthday Message Generator
-
 A simple and aesthetic web app that generates birthday messages based on user input.
 
 ## ✨ Features
@@ -30,7 +28,7 @@ A simple and aesthetic web app that generates birthday messages based on user in
 
 ## 🌐 Live Demo
 
-(Add GitHub Pages link here)
+ https://ramudrikeerthi.github.io/Birthday-Message-Generator/
 
 ## 📌 Future Improvements
 
