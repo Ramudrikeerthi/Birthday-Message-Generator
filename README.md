@@ -18,7 +18,8 @@ A simple and aesthetic web app that generates birthday messages based on user in
 
 ## 📸 Preview
 
-(Add screenshot here)
+<img width="1918" height="964" alt="Screenshot 2026-04-21 121137" src="https://github.com/user-attachments/assets/f36c6793-27c2-4fe1-a3a6-693c93b7214e" />
+
 
 ## 💡 How to Use
 
